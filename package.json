@@ -28,7 +28,9 @@
     "react",
     "ssr",
     "createFetchRequest",
-    "createStaticHandler"
+    "createStaticHandler",
+    "createStaticRouter",
+    "StaticRouterProvider"
   ],
   "main": "dist",
   "types": "dist",
