@@ -1,3 +1,4 @@
+// But dist/index.d.ts is supposed to be excluded?
 {
   "compilerOptions": {
     "target": "es2015",
