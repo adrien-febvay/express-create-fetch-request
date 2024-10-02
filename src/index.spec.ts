@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/await-thenable */
 import { createFetchRequest } from '.';
 import EventEmitter from 'events';
 
